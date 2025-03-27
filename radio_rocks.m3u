@@ -1,8 +1,9 @@
 #EXTM3U
 
 #PLAYLIST:Радіо РОКС
+
 #EXTALBUMARTURL:https://play.tavr.media/static/image/roks/ROKS_player_logo.png?v=1
 
-#EXTINF: logo="covers/radio_roks.jpeg",Радіо рокс
+#EXTINF: tvg-logo="covers/radio_roks.jpeg",Радіо рокс
 http://online.radioroks.ua/RadioROKS
 
